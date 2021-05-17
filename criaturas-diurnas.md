@@ -1,5 +1,6 @@
 ## Criaturas Diurnas:
 
-* Solchka
-* Cortulll
-* Astrumm
+- Solchka
+- Cortulll
+- Astrumm
+- Costumer
