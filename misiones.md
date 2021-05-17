@@ -1,2 +1,4 @@
 # Primera mision:
- Investigar la luz oscura
+
+Investigar la luz oscura
+Capturar a redSkull
